@@ -5,9 +5,13 @@ A tool to solve the codes for the nightmare puzzle.
 > [!NOTE]
 > These notes were transcribed manually. Some entries may contain mistakes due to ambiguous spacing, unclear characters, or symbols that can't be reliably reproduced.
 
-## Notes that might be innacurate
+##
+---
 
-| note id | reason | 
+## Notes that might be innacurate:
+
+| note id | reason |
+|------------------|--------|
 | `0_FyNTMsKar7` | We got `0_FyNTMsKar7==103` once and it wasn't "t". I know **character 82 is "e"**, so *HOPEFULLY* the first 82 characters are correct. |
 | `0_WWug4NRO1u` | Unknown amount of spaces. |
 | `0_J6LHVSGErh` | Zalgo text. |
