@@ -7,6 +7,8 @@ A tool to solve the codes for the nightmare puzzle.
 
 Feel free to open a PR if you find an incorrect transcription. Preferably with a screenshot of the codes and final 5 letter code included.
 
+Shoutouts to `xiutecuhtli` for the original transcriptions and `afk1_.` for helping with some tricky notes.
+
 ##
 
 I'm not into web dev so this is pretty simple. Feel free to do something better if you want
